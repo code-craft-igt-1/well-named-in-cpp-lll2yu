@@ -1,4 +1,4 @@
-#include "ColorPair.h"
+#include "colorpair.h"
 
 namespace TelCoColorCoder {
     ColorPair GetColorFromPairNumber(int pairNumber);

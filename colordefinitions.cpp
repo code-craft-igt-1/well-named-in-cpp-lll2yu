@@ -1,4 +1,4 @@
-#include "ColorDefinitions.h"
+#include "colordefinitions.h"
 
 namespace TelCoColorCoder {
     const char* MajorColorNames[] = {"White", "Red", "Black", "Yellow", "Violet"};

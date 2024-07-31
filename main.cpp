@@ -1,4 +1,4 @@
-#include "ColorUtils.h"
+#include "colorutils.h"
 
 int main() {
     TelCoColorCoder::testNumberToPair(4, TelCoColorCoder::WHITE, TelCoColorCoder::BROWN);
